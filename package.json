@@ -1,0 +1,19 @@
+{
+  "name": "bbc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "@cucumber/cucumber": "^11.0.1",
+    "axios": "^1.7.7",
+    "jest": "^29.7.0",
+    "jest-cucumber": "^4.5.0"
+  }
+}
